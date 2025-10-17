@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rashmi Hegde</h1>
+<h1 align="center">Hi 👋, I'm Rashmi Hegde Welcome to my Profile</h1>
 <h3 align="center">Aspiring Business Analyst | MIS Executive | Excel & Power BI Enthusiast | Passionate about turning data into insights</h3>
 
 ---
