@@ -21,17 +21,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rashmihegde&show_icons=true&theme=radical" alt="Rashmi's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashmihegde&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ### 💼 Featured Projects  
 🚀 **Excel Dashboards** – Interactive visual dashboards for analyzing KPIs and trends  
 📈 **Power BI Reports** – Region-wise and category-wise performance reports  
@@ -50,3 +39,16 @@
 ---
 
 ⭐️ *“Transforming raw data into powerful business insights.”*
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rashmihegde&show_icons=true&theme=radical" alt="Rashmi's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashmihegde&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
