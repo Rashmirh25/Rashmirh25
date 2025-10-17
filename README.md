@@ -21,12 +21,15 @@
 
 ---
 
-### 💼 Featured Projects  
-🚀 **Excel Dashboards** – Interactive visual dashboards for analyzing KPIs and trends  
-📈 **Power BI Reports** – Region-wise and category-wise performance reports  
-🗂️ **SQL Projects** – Query-based insights and data cleaning tasks  
+## 📊 Featured Projects  
+🔹 **HR Attrition analysis (Excel Dashboard)**  
+> This Excel project focuses on analyzing employee attrition data to identify key factors influencing workforce turnover. The objective is to uncover patterns and provide insights that can help HR departments make data-driven decisions. 
 
-*(Coming soon to my repositories!)*
+🔹 **Retail Sales Performance Dashboard (Power BI)**  
+> Built an interactive dashboard to monitor sales trends and business KPIs.  
+
+🔹 **SQL Data Exploration**  
+> Executed SQL queries for financial and operational insights to support data-driven decisions.  
 
 ---
 
